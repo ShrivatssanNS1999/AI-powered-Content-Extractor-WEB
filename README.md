@@ -156,24 +156,3 @@ The build artifacts will be stored in the `dist/` directory.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🔮 Future Enhancements
-
-- [ ] User authentication and cloud sync
-- [ ] Content categorization with tags
-- [ ] Advanced analytics and insights
-- [ ] Bulk URL processing
-- [ ] Content sharing and collaboration
-- [ ] API rate limiting and caching
-- [ ] Mobile app development
-
-## 📞 Support
-
-For support, please open an issue on GitHub or contact the development team.
-
----
-
-**Note**: This application requires an active internet connection to extract content from URLs. The AI extraction service may have rate limits or usage restrictions.
